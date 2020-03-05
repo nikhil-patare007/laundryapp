@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375597370036",
+    "firebase_url": "https://loginapp-2f73e.firebaseio.com",
+    "project_id": "loginapp-2f73e",
+    "storage_bucket": "loginapp-2f73e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375597370036:android:4ed147d9ae8e779bb2e5e1",
+        "android_client_info": {
+          "package_name": "com.example.laundryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375597370036-q15tuhnkd69rn22e0tg92nqtue18vp3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTVdkxKV8QLSPba25zK2JBEM3ijkz5XMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375597370036-q15tuhnkd69rn22e0tg92nqtue18vp3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375597370036-qv7meu630hqhfj3bke9ibhmoin2g7ir1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "comloginappios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
